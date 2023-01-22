@@ -14,7 +14,6 @@ This project was developed using the following technologies:
 - [Git and Github](https://github.com/)
 
 
-## 🚀 Getting started
 
 ## 🔖 Project
 
