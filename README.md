@@ -1,3 +1,5 @@
+<h1 align="center"> Super Mario Bros </h1>
+
 ![](./src/.github/Preview.png)
 
 <br>
